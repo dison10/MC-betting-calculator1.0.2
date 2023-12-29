@@ -1,4 +1,5 @@
 # MC-betting-calculator1.0.2
+僅限於廢土伺服器
 對賭機率換算
 
 對賭機率換算機 執行exe即可
